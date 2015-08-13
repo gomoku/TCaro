@@ -1,0 +1,8 @@
+MIDlet-1: Ca Rô,,JCaro.JCaro
+MIDlet-Jar-Size: 9128
+MIDlet-Jar-URL: TCaro.jar
+MIDlet-Name: Ca Rô
+MIDlet-Vendor: Đoàn Anh Tài
+MIDlet-Version: 1.0.6
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

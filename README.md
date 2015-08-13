@@ -1,0 +1,5 @@
+I just downloaded program is jcaro (Gomoku) java program written for Samsung (no touchscreen) should not play with pen support. After using the program decompiler to decompile the java program, the No doubt that it is the source code, too. So I had milk into Vietnamese interface and additional support by poked play pen. Who likes to play with pen plaid then take this to play rekindled Enjoy. Doan Anh Tai. Post the file has more functionality and fix bugs people-person "you lose then" beating.
+
+Original website: https://www.tinhte.vn/threads/co-ca-ro-java-phien-ban-tieng-viet-va-choi-bang-but.107684/
+
+Tags: Five in a Row, Tic Tac Toe, TicTacToe, 5 in a Row, Go-Moku, Connect, Connect5, Connect6, Caro, Noughts and Crosses, Gomoku, Renju, Pente, Piskvork, Amoba, Kółko i Krzyżyk, Gomocup, AI, Engine, Artificial Intelligence, Brain, Pbrain, Gra, Game, Source Code Files, Program, Programming, Github, Board, Coding.
